@@ -3,9 +3,8 @@
 //Autor: Mayra Alejandra Galvan Garcia GDS0515
 //Fecha: 17/11/2022
 Proceso unoCienROMANO
-	Escribir "Algoritmo 1-100 nuemro romanos";
+	Escribir "Algoritmo 1-100 nuemero romanos";
 	Escribir "Autor: Mayra Alejandra Galvan Garcia GDS0515";
-	Escribir "***********************************";
 	Escribir "17/11/2022";
 
 	Definir uni, decenas, num Como Entero;
